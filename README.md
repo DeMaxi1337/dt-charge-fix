@@ -1,5 +1,4 @@
 # dt-charge-fix
 unsafe Double Tap charging, allowing force recharge in air for gamesense.pub
-<a href="https://iili.io/fa24a9I.md.png">
-    <img src="https://iili.io/fa24a9I.md.png" alt="fa24a9I.md.png" border="0" style="width: 500px; height: auto;">
-</a>
+
+<a href="https://ibb.co/MDQhFFdN"><img src="https://i.ibb.co/7JLzsshy/43252345342.png" alt="43252345342" border="0"></a>
